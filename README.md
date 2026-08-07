@@ -9,6 +9,7 @@ This system was built for **SL Diagnostics, Hyderabad**. It helps manage patient
 * **Manual Token Generation:** Tokens can be generated manually if needed.
 * **Department-wise Sorting:** Automatically categorizes tokens based on the department.
 * **Secure Login:** Default credentials for all users with an option to change passwords after the first login.
+*  Have option to show **annoncement** in display screen client side 
 
 ---
 
