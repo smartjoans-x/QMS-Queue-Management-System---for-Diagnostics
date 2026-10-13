@@ -14,7 +14,7 @@ if (!$mysql_conn) {
 define('MSSQL_DB_HOST', '192.168.0.10,1434');
 define('MSSQL_DB_NAME', 'lims');
 define('MSSQL_DB_USER', 'php_user');
-define('MSSQL_DB_PASS', 'PhpUser2025!');
+define('MSSQL_DB_PASS', 'password!');
 
 $mssql_conn = sqlsrv_connect(MSSQL_DB_HOST, [
     'Database' => MSSQL_DB_NAME,
